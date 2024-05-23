@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Al Amin Muhammad",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Web and Android Application Developer",
+  email: "alamin.muhammad@studentambassadors.com",
+  gitHub: "https://github.com/alaminthespecial",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/al-amin-muhammad-830306221/",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
