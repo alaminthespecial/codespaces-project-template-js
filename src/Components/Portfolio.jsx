@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://polite-mushroom-0e33eee1e.5.azurestaticapps.net/",
+    url: "https://black-mushroom-0af2c5d1e.5.azurestaticapps.net/",
   },
   
 ];
